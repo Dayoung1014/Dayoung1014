@@ -1,5 +1,5 @@
 <div align="center">
-#Lee Dayoung
+Lee Dayoung
 
 
 </div>
