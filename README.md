@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDayoung1014&count_bg=%23FFC6ED&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+<p align="center">
   <a href="https://everyyoung.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://everyyoung.tistory.com/" /></a>&nbsp;
   <a href="mailto:everyyoung99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=everyyoung99@gmail.com"/></a>
 </p>
