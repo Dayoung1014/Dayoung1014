@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://everyyoung.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://everyyoung.tistory.com/" /></a>&nbsp;
-  <a href="everyyoung99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:everyyoung99@gmail.com" /></a>
+  <a href="mailto:everyyoung99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=everyyoung99@gmail.com"/></a>
 </p>
 
 <p align="center">
